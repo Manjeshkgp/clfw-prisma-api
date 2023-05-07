@@ -1,0 +1,4 @@
+name = "cloudflare-workers"
+main = "src/index.ts"
+compatibility_date = "2023-05-06"
+format = "modules"
